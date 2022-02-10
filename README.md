@@ -1,4 +1,4 @@
-# Assignment2-Django
+# Assignment2
 ## Installation
 
 First, set up your project with django by creating app and templates.
