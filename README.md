@@ -31,5 +31,5 @@ attrs = soup.find_all('a')
 * Toke the news articles using find_all() method
 * Print them out taking only text that is inside tags
 
-### Example 3
+### Example 2
 All the addresses and balances a stored in sqlite3 that is integrated with Django project. You can also manage the data and add new data by accessing the admin page.
